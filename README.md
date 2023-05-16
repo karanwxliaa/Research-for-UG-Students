@@ -4,9 +4,41 @@
 
 ### Feel free to contribute to this list and share your knowledge as well!
 
-The following are some global research internship positions:
+## HONG KONG 
+  * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
+  * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
+  * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
+  * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
 
-US
+## SWITZERLAND
+  * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
+  * [CERN Summer Student Program](https://careers.cern/summer)  
+  * [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
+  * [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
+  * [Summer at EPFL](https://summer.epfl.ch/)
+  * [Swissnex Program](https://swissnex.org/india/thinkswiss/)
+
+## GERMANY
+  * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
+  * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
+  * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
+  * [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
+  * [HZDR Dresden, Summer student program (Germany)](https://www.hzdr.de/db/Cms?pOid=34387&pNid=2519)
+  * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
+  * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
+
+## CANADA
+  * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
+
+## SOUTH KOREA
+  * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
+  * [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
+  * [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
+  * [Research internship @ Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
+  * [Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
+ 
+## UNITED STATES 
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
@@ -29,102 +61,55 @@ US
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
-CANADA
+## UNITED KINGDOM
+  * [Amgen Scholars UK Programme](http://www.amgenscholars.medschl.cam.ac.uk/)
+  * [Lloyds Scholars Programme](https://www.lloyds-scholars.com/)
+  * [Wellcome Trust Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/vacation-scholarships)
+  * [Nuffield Research Placements](https://www.nuffieldfoundation.org/students-teachers/research-placements)
+  * [GSK Undergraduate Industrial Placement](https://www.gsk.com/en-gb/careers/early-talent-opportunities/undergraduate-industrial-placement/)
+  * [Imperial College London, Undergraduate Research Opportunities Programme (UROP)](https://www.imperial.ac.uk/students/ug/urop/)
 
-  * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
+## AUSTRALIA
+  * [University of Melbourne, Australia - Vacation Research Experience Scheme (VRES)](https://mspace.unimelb.edu.au/students/achievements/vres)
+  * [ANU, Australia - ANU Summer Research Program](https://science.anu.edu.au/study/summer-research-program)
+  * [CSIRO, Australia - Vacation Scholarships](https://www.csiro.au/en/Careers/Studentships-and-scholarships/Vacation-scholarships)
 
-UK
+## INDIA
+  * [IIT Roorkee, Summer Internship Program](https://www.iitr.ac.in/academics/internship/pages/index.html)
+  * [IIT Bombay, Summer Research Program](https://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/SummerResearchInternship)
+  * [IIT Kharagpur, Summer of Code](https://summerofcode.in/)
+  * [IIT Madras, Summer Fellowship Programme](https://sfp.iitm.ac.in/)
+  * [BITS Pilani, Summer Undergraduate Research Fellowship (SURF)](https://www.bits-pilani.ac.in/pilani/summerresearchfellowship)
+  * [IIIT Hyderabad, Summer Internship Program](https://www.iiit.ac.in/
+  * [IIIT Delhi, Summer Research Internship Program](https://www.iiitd.ac.in/)
+  * [IISc Bangalore, Summer Research Program](https://www.iisc.ac.in/)
+  * [IISER Pune, Summer Student Program](https://www.iiserpune.ac.in/)
+  * [IISER Kolkata, Summer Student Research Programme](https://www.iiserkol.ac.in/)
+  * [IISER Mohali, Summer Research Program](https://www.iisermohali.ac.in/)
+  * [IISER Bhopal, Summer Student Research Fellowship](https://www.iiserb.ac.in/)
+  * [IISER Tirupati, Summer Research Programme](https://www.iisertirupati.ac.in/)
+  * [IISER Thiruvananthapuram, Summer Visiting Programme](https://www.iisertvm.ac.in/)
 
-  * [DSSGx UK Summer Fellowship](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/), University of Warwick
-  * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
+## CANADA
+  * [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+  * [NSERC Undergraduate Student Research Awards (USRA)](https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp)
+  * [Amgen Scholars Canada Program](https://amgenscholars.ca/)
+  * [Google AI Residency Program - Canada](https://sites.research.google/residency/)
+  * [Canadian Space Agency (CSA) - Junior Astronaut Camp](https://www.asc-csa.gc.ca/eng/astronauts/junior-astronauts/camp.asp)
 
-INDIA
+## GERMANY
+  * [RISE - Research Internships in Science and Engineering](https://www.daad.de/rise/en/)
+  * [International Max Planck Research School (IMPRS) Summer Internship Program](https://www.imprs-cs.de/summer-internships)
+  * [Helmholtz Centre for Infection Research (HZI) Summer Student Program](https://www.helmholtz-hzi.de/en/research/research_schools/school_of_infection_research/internships/summer_student_program/)
+  * [LMU Munich, International Summer University for Women in Informatics and Computer Science (ISU)](https://www.wimi.ovgu.de/wimi_international/ISU.html)
 
-  * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
-  * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
+## FRANCE
+  * [Pasteur Institute, Pasteur-Roux-Cantarini Internship Program](https://www.pasteur.fr/en/education/robert-cantarini-internship-program)
+  * [Institut Curie, Undergraduate Internship Program](https://training.curie.fr/article502.html)
+  * [École Normale Supérieure (ENS) de Lyon, Summer Research Program](https://www.ens.psl.eu/summer-research-programme)
+  * [Paris-Saclay University, Internship Program](https://www.universite-paris-saclay.fr/en/education/doctoral-studies/internship-bourses)
 
-
-SWITZERLAND
-
-  * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
-  * [CERN Summer Student Program](https://careers.cern/summer)  
-  * [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
-  * [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
-  * [Summer at EPFL](https://summer.epfl.ch/)
-  * [Swissnex Program](https://swissnex.org/india/thinkswiss/)
-  *
-  
-HONG KONG 
-  * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
-  * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
-  * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
-  * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
-
-AUSTRALIA
-
-  * [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students) 
-  * [UNSW Research Internship (Australia)](https://www.unsw.edu.au/science/student-life-resources/student-opportunities/research-integrated-learning)
-
-GERMANY
-  * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
-  * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
-  * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
-  * [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
-  * [HZDR Dresden, Summer student program (Germany)](https://www.hzdr.de/db/Cms?pOid=34387&pNid=2519)
-  * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
-  * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
-
-JAPAN
-  * [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
-  * [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology 
-  * [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
-  * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
-
-
-SOUTH KOREA
-
-  * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
-  * [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
-  * [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
-  * [Research internship @ Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
-  * [Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
-
-TAIWAN
-
-  * [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
-  * [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-  * [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
-  * [TEEP@Asia (Taiwan)](https://teep.studyintaiwan.org/programs/Engineering)
-  * [TEEP Internship, Taiwan](https://www.roc-taiwan.org/in_en/post/2749.html)
-
-AUSTRIA
-
-  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
-  
-
-ISRAEL
-
-  * [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
-
-SPAIN
-
- * [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
- * [ Computer Vision Center Internship Program](https://www.cvc.uab.es/internship/)
-
-FRANCE
-
-  * [OECD Internship Programme (France)](https://www.oecd.org/careers/internship-programme/)
-
-SAUDI ARABIA
-
-  * [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
-
-RUSSIA
-
-  * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
-
-MULTIPLE COUNTRIES
+## MULTIPLE COUNTRIES
 
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
   * [Amgen Scholars Program](https://amgenscholars.com/)
@@ -132,7 +117,7 @@ MULTIPLE COUNTRIES
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 
 
-The following are some research internships for Indian students:
+Other programs for Indian students:
 
 1. ~~S.N. Bose Scholarship sponsored by IUSSTF~~, it's been closed for almost two years now.
 2. [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
@@ -167,3 +152,6 @@ The following are some research internships for Indian students:
 32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
 33. [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
 33. [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
+
+
+
