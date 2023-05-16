@@ -1,8 +1,10 @@
 # Research-for-UG-Students
 
-## Welcome to the list of research programs and internships available worldwide. 
-#### This README provides information about various opportunities for students interested in gaining research experience.
-#### Feel free to contribute to this list and share your knowledge as well!
+## Welcome to the list of research programs and internships available worldwide. <br>
+(All the headings are hyperlinks to the official websites of the research programs)
+
+#### This README provides information about various opportunities for students interested in gaining research experience. <br>
+Feel free to contribute to this list and share your knowledge as well!
 
 ## HONG KONG 
   * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
