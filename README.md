@@ -71,11 +71,6 @@ Feel free to contribute to this list and share your knowledge as well!
   * [GSK Undergraduate Industrial Placement](https://www.gsk.com/en-gb/careers/early-talent-opportunities/undergraduate-industrial-placement/)
   * [Imperial College London, Undergraduate Research Opportunities Programme (UROP)](https://www.imperial.ac.uk/students/ug/urop/)
 
-## AUSTRALIA
-  * [University of Melbourne, Australia - Vacation Research Experience Scheme (VRES)](https://mspace.unimelb.edu.au/students/achievements/vres)
-  * [ANU, Australia - ANU Summer Research Program](https://science.anu.edu.au/study/summer-research-program)
-  * [CSIRO, Australia - Vacation Scholarships](https://www.csiro.au/en/Careers/Studentships-and-scholarships/Vacation-scholarships)
-
 ## INDIA
   * [IIT Roorkee, Summer Internship Program](https://www.iitr.ac.in/academics/internship/pages/index.html)
   * [IIT Bombay, Summer Research Program](https://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/SummerResearchInternship)
