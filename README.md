@@ -82,7 +82,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [IIT Kharagpur, Summer of Code](https://summerofcode.in/)
   * [IIT Madras, Summer Fellowship Programme](https://sfp.iitm.ac.in/)
   * [BITS Pilani, Summer Undergraduate Research Fellowship (SURF)](https://www.bits-pilani.ac.in/pilani/summerresearchfellowship)
-  * [IIIT Hyderabad, Summer Internship Program](https://www.iiit.ac.in/
+  * [IIIT Hyderabad, Summer Internship Program](https://www.iith.ac.in/news/2023/02/03/Summer-Undergraduate-Research-Exposure/)
   * [IIIT Delhi, Summer Research Internship Program](https://www.iiitd.ac.in/)
   * [IISc Bangalore, Summer Research Program](https://www.iisc.ac.in/)
   * [IISER Pune, Summer Student Program](https://www.iiserpune.ac.in/)
