@@ -154,6 +154,6 @@ Other programs for Indian students:
 32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
 33. [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
 34. [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
-35. [Nanyang Technical University,Singapore (India Connect @ NTU)](https://www.ntu.edu.sg/about-us/global/india-connect-ntu)
+36. [Nanyang Technical University,Singapore (India Connect @ NTU)](https://www.ntu.edu.sg/about-us/global/india-connect-ntu)
 
 
