@@ -74,12 +74,7 @@ Feel free to contribute to this list and share your knowledge as well!
 ## AUSTRALIA
   * [University of Melbourne, Australia - Vacation Research Experience Scheme (VRES)](https://mspace.unimelb.edu.au/students/achievements/vres)
   * [ANU, Australia - ANU Summer Research Program](https://science.anu.edu.au/study/summer-research-program)
-  * [CSIRO, Australia - Vacation Scholarships](https://www.csiro.au/en/Careers/Studentships-and-scholarships/Vacation-scholarships)
-
-  * [University of Melbourne, Australia - Vacation Research Experience Scheme (VRES)](https://ms.unimelb.edu.au/engage/vacation-scholarships/vacation-scholarships-projects)
-  * [ANU, Australia - ANU Summer Research Program](https://science.anu.edu.au/summer-research-scholars-program-application)
-  * [CSIRO, Australia - Vacation Scholarships](https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships)
-
+  * [CSIRO, Australia - Vacation Scholarships](https://www.csiro.au/en/Careers/Studentships-and-scholarships/Vacation-scholarships
 
 ## INDIA
   * [IIT Roorkee, Summer Internship Program](https://www.iitr.ac.in/academics/internship/pages/index.html)
