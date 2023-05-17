@@ -71,6 +71,14 @@ Feel free to contribute to this list and share your knowledge as well!
   * [GSK Undergraduate Industrial Placement](https://www.gsk.com/en-gb/careers/early-talent-opportunities/undergraduate-industrial-placement/)
   * [Imperial College London, Undergraduate Research Opportunities Programme (UROP)](https://www.imperial.ac.uk/students/ug/urop/)
 
+
+
+## AUSTRALIA
+  * [University of Melbourne, Australia - Vacation Research Experience Scheme (VRES)](https://ms.unimelb.edu.au/engage/vacation-scholarships/vacation-scholarships-projects)
+  * [ANU, Australia - ANU Summer Research Program](https://science.anu.edu.au/summer-research-scholars-program-application)
+  * [CSIRO, Australia - Vacation Scholarships](https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships)
+
+
 ## INDIA
   * [IIT Roorkee, Summer Internship Program](https://www.iitr.ac.in/academics/internship/pages/index.html)
   * [IIT Bombay, Summer Research Program](https://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/SummerResearchInternship)
@@ -148,7 +156,7 @@ Other programs for Indian students:
 31. [IIT (ISM) Dhanbad SRIP Programme](https://www.iitism.ac.in/deans/research/SRIP.php)
 32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
 33. [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
-33. [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
-
+34. [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
+36. [Nanyang Technical University,Singapore (India Connect @ NTU)](https://www.ntu.edu.sg/about-us/global/india-connect-ntu)
 
 
