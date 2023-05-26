@@ -3,7 +3,7 @@
 ## Welcome to the list of research programs and internships available worldwide. <br>
 (All the headings are hyperlinks to the official websites of the research programs)
 
-#### This README provides information about various opportunities for students interested in gaining research experience. <br>
+#### This README provides information about various opportunities for students interested in gaining research experience <br>
 Feel free to contribute to this list and share your knowledge as well!
 
 ## HONG KONG 
