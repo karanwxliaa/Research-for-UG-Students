@@ -114,6 +114,9 @@ Feel free to contribute to this list and share your knowledge as well!
   * [École Normale Supérieure (ENS) de Lyon, Summer Research Program](https://www.ens.psl.eu/summer-research-programme)
   * [Paris-Saclay University, Internship Program](https://www.universite-paris-saclay.fr/en/education/doctoral-studies/internship-bourses)
 
+## JAPAN
+* [Okinawa Institute of Science and Technology, Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description)
+
 ## MULTIPLE COUNTRIES
 
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
