@@ -12,6 +12,8 @@ Feel free to contribute to this list and share your knowledge as well!
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
+## SINGAPORE
+  *[Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) (3RD YEAR +)
 
 ## SWITZERLAND
   * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
@@ -33,6 +35,10 @@ Feel free to contribute to this list and share your knowledge as well!
 ## CANADA
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
+  * [NSERC Undergraduate Student Research Awards (USRA)](https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp)
+  * [Amgen Scholars Canada Program](https://amgenscholars.ca/)
+  * [Google AI Residency Program - Canada](https://sites.research.google/residency/)
+  * [Canadian Space Agency (CSA) - Junior Astronaut Camp](https://www.asc-csa.gc.ca/eng/astronauts/junior-astronauts/camp.asp)
 
 ## SOUTH KOREA
   * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
@@ -95,13 +101,6 @@ Feel free to contribute to this list and share your knowledge as well!
   * [IISER Bhopal, Summer Student Research Fellowship](https://www.iiserb.ac.in/)
   * [IISER Tirupati, Summer Research Programme](https://www.iisertirupati.ac.in/)
   * [IISER Thiruvananthapuram, Summer Visiting Programme](https://www.iisertvm.ac.in/)
-
-## CANADA
-  * [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
-  * [NSERC Undergraduate Student Research Awards (USRA)](https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp)
-  * [Amgen Scholars Canada Program](https://amgenscholars.ca/)
-  * [Google AI Residency Program - Canada](https://sites.research.google/residency/)
-  * [Canadian Space Agency (CSA) - Junior Astronaut Camp](https://www.asc-csa.gc.ca/eng/astronauts/junior-astronauts/camp.asp)
 
 ## GERMANY
   * [RISE - Research Internships in Science and Engineering](https://www.daad.de/rise/en/)
