@@ -101,6 +101,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [IISER Bhopal, Summer Student Research Fellowship](https://www.iiserb.ac.in/)
   * [IISER Tirupati, Summer Research Programme](https://www.iisertirupati.ac.in/)
   * [IISER Thiruvananthapuram, Summer Visiting Programme](https://www.iisertvm.ac.in/)
+  * [BITS Goa Summer Research Programme](https://www.bits-pilani.ac.in/goa/bgsrp/)
 
 ## GERMANY
   * [RISE - Research Internships in Science and Engineering](https://www.daad.de/rise/en/)
