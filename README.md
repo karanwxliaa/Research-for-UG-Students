@@ -49,7 +49,7 @@ Feel free to contribute to this list and share your knowledge as well!
  
 ## UNITED STATES 
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
-  * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
+  * ~~[NASA - CalTech Summer Undergraduate Research Fellowship (SURF)]~~(https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology. (Open to U.S. citizens and lawful permanent residents (LPRs).)
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
   * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
   * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
