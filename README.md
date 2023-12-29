@@ -13,7 +13,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
 ## SINGAPORE
-  *[Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) (3RD YEAR +)
+  * [Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) (3RD YEAR +)
 
 ## SWITZERLAND
   * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
