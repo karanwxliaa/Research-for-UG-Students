@@ -69,6 +69,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
+  * [Santa Fe Institute Undergraduate Complexity Research (UCR)](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 
 ## UNITED KINGDOM
   * [Amgen Scholars UK Programme](http://www.amgenscholars.medschl.cam.ac.uk/)
@@ -102,6 +103,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [IISER Tirupati, Summer Research Programme](https://www.iisertirupati.ac.in/)
   * [IISER Thiruvananthapuram, Summer Visiting Programme](https://www.iisertvm.ac.in/)
   * [BITS Goa Summer Research Programme](https://www.bits-pilani.ac.in/goa/bgsrp/)
+  * [Microsoft India Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/)
 
 ## GERMANY
   * [RISE - Research Internships in Science and Engineering](https://www.daad.de/rise/en/)
@@ -114,6 +116,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [Institut Curie, Undergraduate Internship Program](https://training.curie.fr/article502.html)
   * [École Normale Supérieure (ENS) de Lyon, Summer Research Program](https://www.ens.psl.eu/summer-research-programme)
   * [Paris-Saclay University, Internship Program](https://www.universite-paris-saclay.fr/en/education/doctoral-studies/internship-bourses)
+  * [Research Program for International Talents, École Polytechnique](https://programmes.polytechnique.edu/en/exchange-programs/research-program-for-international-talents/program-details)
 
 ## JAPAN
 * [Okinawa Institute of Science and Technology, Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description)
