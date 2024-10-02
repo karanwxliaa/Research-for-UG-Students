@@ -7,6 +7,9 @@
 #### This README provides information about various opportunities for students interested in gaining research experience <br>
 Feel free to contribute to this list and share your knowledge as well!
 
+## ABU DHABI
+  * [MBZUAI, UGRIP](https://mbzuai.ac.ae/ugrip/)
+    
 ## HONG KONG 
   * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
