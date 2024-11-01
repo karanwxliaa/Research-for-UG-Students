@@ -1,3 +1,5 @@
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/karanwxliaa/Research-for-UG-Students&title=Views)
+
 # Research-for-UG-Students
 ⭐ the repo so you don't lose it later :)
 
