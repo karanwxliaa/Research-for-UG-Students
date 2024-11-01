@@ -1,4 +1,4 @@
-![Total Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/karanwxliaa/Research-for-UG-Students/blob/main/AllTimeTraffic.json&label=Total%20Views)
+![Total Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/karanwxliaa/Research-for-UG-Students/main/AllTimeTraffic.json)
 
 # Research-for-UG-Students
 ⭐ the repo so you don't lose it later :)
