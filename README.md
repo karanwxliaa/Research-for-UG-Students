@@ -1,4 +1,4 @@
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/karanwxliaa/Research-for-UG-Students&title=Views)
+![Total Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/karanwxliaa/Research-for-UG-Students/blob/main/AllTimeTraffic.json&label=Total%20Views)
 
 # Research-for-UG-Students
 ⭐ the repo so you don't lose it later :)
