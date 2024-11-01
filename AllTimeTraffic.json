@@ -1,3 +1,5 @@
 {
-  "AllTimeTraffic":163541
+  "schemaVersion": 1,
+  "label": "Total Views",
+  "message": "163541"
 }
