@@ -74,6 +74,8 @@ Feel free to contribute to this list and share your knowledge as well!
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
   * [Santa Fe Institute Undergraduate Complexity Research (UCR)](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
+  * [REU Summer TERC Scholars Program - TERC](https://www.terc.edu/work-with-us/interships/summer-terc-scholars-program/)
+  * [NSF Dristtributed Research Experiences for Undergraduates (DREU)](https://cra.jotform.com/242948236029866)
 
 ## UNITED KINGDOM
   * [Amgen Scholars UK Programme](http://www.amgenscholars.medschl.cam.ac.uk/)
