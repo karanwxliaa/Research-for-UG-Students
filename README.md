@@ -10,6 +10,9 @@ Feel free to contribute to this list and share your knowledge as well!
 
 ## ABU DHABI
   * [MBZUAI, UGRIP](https://mbzuai.ac.ae/ugrip/)
+
+## Austria
+ * [ISTernship – ISTA Summer Fellowship](https://phd.pages.ist.ac.at/isternship/)
     
 ## HONG KONG 
   * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
