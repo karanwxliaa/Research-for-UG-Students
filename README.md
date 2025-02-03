@@ -86,7 +86,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [Wellcome Trust Vacation Scholarships](https://wellcome.ac.uk/funding/schemes/vacation-scholarships)
   * [Nuffield Research Placements](https://www.nuffieldfoundation.org/students-teachers/research-placements)
   * [GSK Undergraduate Industrial Placement](https://www.gsk.com/en-gb/careers/early-talent-opportunities/undergraduate-industrial-placement/)
-  * [Imperial College London, Undergraduate Research Opportunities Programme (UROP)](https://www.imperial.ac.uk/students/ug/urop/)
+  * [Imperial College London, Undergraduate Research Opportunities Programme (UROP)](https://www.imperial.ac.uk/urop/what-is-urop/)
   * [University of Oxford - BDI Summer Internship Programme](https://www.bdi.ox.ac.uk/study/bdi-summer-studentship-programme#:~:text=The%20BDI%20will%20offer%20four,be%20based%20in%20the%20UK.) #Has begun to run regularly now.
 
 
