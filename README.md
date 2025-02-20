@@ -8,6 +8,9 @@
 #### This README provides information about various opportunities for students interested in gaining research experience <br>
 Feel free to contribute to this list and share your knowledge as well!
 
+## BULGARIA
+  * [SURF@INSAIT](https://insait.ai/surf)
+
 ## ABU DHABI
   * [MBZUAI, UGRIP](https://mbzuai.ac.ae/ugrip/)
 
