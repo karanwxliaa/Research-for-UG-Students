@@ -49,6 +49,7 @@ Feel free to contribute to this list and share your knowledge as well!
   * [Amgen Scholars Canada Program](https://amgenscholars.ca/)
   * [Google AI Residency Program - Canada](https://sites.research.google/residency/)
   * [Canadian Space Agency (CSA) - Junior Astronaut Camp](https://www.asc-csa.gc.ca/eng/astronauts/junior-astronauts/camp.asp)
+  * [Hanzilla Jobs — Canada science internships and new-grad roles](https://jobs.hanzilla.co/sciences/) (related ongoing board for Canadian student/recent-grad science, lab, biotech, environmental, data, and research-adjacent roles)
 
 ## SOUTH KOREA
   * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
